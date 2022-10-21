@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laudrup21
+- 👋 Hi, I’m @ Paul Laudrup 
 - 👀 I’m interested in ML/DL applied to NLP with also and interested in computer vision and RL
 - 🌱 I’m currently learning AI and Machine Learning at ENS Paris Saclay currently enrolled in the master MVA after 3 years at Ecole Polytechnique(l'X)
 - 💞️ I’m looking to collaborate on project implies machine learning and software engineering 
